@@ -9,7 +9,7 @@ Repositório para guarda resumo do Git e Github. [Digital Inovvation One](https:
 ## Resumos da aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local | [Resumos]()
+| Gravando alterações no repositório local | [Resumo]()
 
 ```
 git init
